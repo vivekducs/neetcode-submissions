@@ -51,5 +51,3 @@ GitHub: https://github.com/vivekducs
 ## Goal
 
 Strengthen problem-solving skills, master DSA concepts, and prepare for software engineering interviews.
-
-```
