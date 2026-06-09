@@ -1,4 +1,4 @@
-````md
+
 # NeetCode Solutions
 
 A collection of my Data Structures and Algorithms solutions from NeetCode.
@@ -52,5 +52,4 @@ GitHub: https://github.com/vivekducs
 
 Strengthen problem-solving skills, master DSA concepts, and prepare for software engineering interviews.
 
-```
 ```
